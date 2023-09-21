@@ -1,6 +1,6 @@
 {
     "name": "picgo-plugin-simpletex",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "LaTeX OCR by SimpleTex",
     "main": "src/index.js",
     "publishConfig": {
