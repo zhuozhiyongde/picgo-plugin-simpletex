@@ -1,12 +1,12 @@
 {
     "name": "picgo-plugin-simpletex",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "LaTeX OCR by SimpleTex",
     "main": "src/index.js",
     "publishConfig": {
         "access": "public"
     },
-    "homepage": "",
+    "homepage": "https://github.com/zhuozhiyongde/picgo-plugin-simpletex",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "patch": "npm version patch && git push origin master && git push origin --tags",
